@@ -1,0 +1,1 @@
+export default ({ ["styles"] : ({ ["global"] : ({ [":root"] : ({  }), ["body"] : ({ ["fontFamily"] : "Epunda Slab", ["--default-font-family"] : "Epunda Slab", ["backgroundColor"] : "#0F0F0F" }) }) }) })
