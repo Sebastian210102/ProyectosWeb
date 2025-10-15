@@ -40,12 +40,10 @@ def header() -> rx.Component:
 
         ),
 
-
-
-
         width="100vw",
         min_height= "20em",
         background="linear-gradient(45deg, #B4B4B4, #32FFE775)",
         align = "center",
-        justify = "center"
+        justify = "center",
+        box_shadow="5px 5px 10px rgba(0, 0, 0, 0.3)"
     )
